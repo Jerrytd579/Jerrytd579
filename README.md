@@ -1,4 +1,4 @@
-<h1>👋 "Hello there!"- Ewan McGregor</h1>
+<h1>👋 "Hello there!" - Ewan McGregor</h1>
 
 
 <!---
