@@ -1,4 +1,4 @@
-## 👋 "Hello there!" - Ewan McGregor
+## 👋 "Hello there!" 
 
 My name is **Jerry Cheng** and I am a senior studying Computer Science at the Stevens Institute of Technology.
 
