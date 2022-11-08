@@ -7,7 +7,7 @@ This README is a WIP!
 [![Linkedin: Jerry](https://img.shields.io/badge/-Jerry_Cheng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerry-t-cheng//)](https://www.linkedin.com/in/jerry-t-cheng//)
 ![GitHub: Jerry](https://img.shields.io/github/followers/Jerrytd579?style=social)
 
-
+---
 ### Tools and Technologies
 <!-- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) -->
 <!--     ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic) -->
