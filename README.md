@@ -56,3 +56,9 @@ This README is a WIP!
 Jerrytd579/Jerrytd579 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrytd579&layout=compact&theme=dark&hide_border=true)
+
+![Jerry's github stats](https://github-readme-stats.vercel.app/api?username=jerrytd579&show_icons=true&hide_border=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=roccopolimen)](https://github.com/jerrytd579/github-profile-trophy)
