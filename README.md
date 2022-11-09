@@ -1,6 +1,7 @@
 ## 👋 "Hello there!" 
 
 My name is **Jerry Cheng** and I am a graduating senior studying Computer Science at the Stevens Institute of Technology.
+Actively seeking job opportunities for post graduation!
 
 This README is a WIP!
 
