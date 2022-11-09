@@ -61,4 +61,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Jerry's github stats](https://github-readme-stats.vercel.app/api?username=jerrytd579&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=roccopolimen)](https://github.com/jerrytd579/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jerrytd579)](https://github.com/jerrytd579/github-profile-trophy)
