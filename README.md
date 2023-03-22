@@ -3,7 +3,7 @@
 My name is **Jerry Cheng** and I am a graduating senior studying Computer Science at the Stevens Institute of Technology.
 Actively seeking job opportunities for post graduation!
 
-Throughout my academic career, I've been fortunate to work on a variety of projects that have allowed me to gain experience in different programming languages and technologies. I'm particularly proud of my work on the Happy Box Dashboard, where I was part of a team that built a web application for Happy Box, a bespoke e-commerce gifting company that creates expertly crafted gifts, sent in a few clicks. The website takes data from Happy Box’s shopify account and use it to build a dashboard displaying data about how many gift recipients turn into customers.
+Throughout my academic career, I've been fortunate to work on a variety of projects that have allowed me to gain experience in different programming languages and technologies. I'm particularly proud of my work on the Happy Box Dashboard, where I was part of a team that built a web application for Happy Box, a bespoke e-commerce gifting company that creates expertly crafted gifts, sent in a few clicks. The website takes data from Happy Box’s shopify account and uses it to build a dashboard displaying data about how many gift recipients turn into customers. This enables Happy Box to more easily make business decisions based on internal purchasing data.
 
 In addition to my coursework and projects, I've also taken advantage of opportunities to learn from industry professionals through internships and networking events. I'm excited to take what I've learned and apply it to a full-time role in software development.
 
