@@ -3,7 +3,11 @@
 My name is **Jerry Cheng** and I am a graduating senior studying Computer Science at the Stevens Institute of Technology.
 Actively seeking job opportunities for post graduation!
 
-This README is a WIP!
+Throughout my academic career, I've been fortunate to work on a variety of projects that have allowed me to gain experience in different programming languages and technologies. I'm particularly proud of my work on the Happy Box Dashboard, where I was part of a team that built a web application for Happy Box, a bespoke e-commerce gifting company that creates expertly crafted gifts, sent in a few clicks. The website takes data from Happy Box’s shopify account and use it to build a dashboard displaying data about how many gift recipients turn into customers.
+
+In addition to my coursework and projects, I've also taken advantage of opportunities to learn from industry professionals through internships and networking events. I'm excited to take what I've learned and apply it to a full-time role in software development.
+
+If you're interested in learning more about me or my work, please feel free to explore my Github profile or reach out to me directly via LinkedIn. I'm always looking to connect with others. Thank you for visiting!
 
 [![Linkedin: Jerry](https://img.shields.io/badge/-Jerry_Cheng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerry-t-cheng//)](https://www.linkedin.com/in/jerry-t-cheng//)
 ![GitHub: Jerry](https://img.shields.io/github/followers/Jerrytd579?style=social)
